@@ -89,8 +89,7 @@ GitHub Repository:
 https://github.com/khrnsaanrl-cmd/The-Lifestyle-Journal-portfolio
 
 GitHub Pages:
-https://khrnsaanrl-cmd.github.io/The-Lifestyle-Journal-portfolio/
-
+https://khrnsaanrl-cmd.github.io/The-Lifestyle-Journal-portfolio/The-Lifestyle-Journal-portfolio-main/
 ---
 
 ## Learning Outcomes
