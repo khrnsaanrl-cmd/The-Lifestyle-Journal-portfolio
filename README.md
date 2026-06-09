@@ -34,23 +34,23 @@ The purpose of this project is to create a responsive and visually appealing per
 
 ### Home Page
 
-![Home Page](images/screenshot/homepage.png)
+![Home Page](The-Lifestyle-Journal-portfolio-main/images/screenshot/homepage.png)
 
 ### About Page
 
-![About Page](images/screenshot/aboutpage.png)
+![About Page](The-Lifestyle-Journal-portfolio-main/images/screenshot/aboutpage.png)
 
 ### Gallery Page
 
-![Gallery Page](images/screenshot/blogpage.png)
+![Gallery Page](The-Lifestyle-Journal-portfolio-main/images/screenshot/blogpage.png)
 
 ### Contact Page
 
-![Contact Page](images/screenshot/contactpage.png)
+![Contact Page](The-Lifestyle-Journal-portfolio-main/images/screenshot/contactpage.png)
 
 ### Gallery Popup
 
-![Gallery Popup](images/screenshot/popupPage.png)
+![Gallery Popup](The-Lifestyle-Journal-portfolio-main/images/screenshot/popupPage.png)
 
 ## How to Run the Project
 
