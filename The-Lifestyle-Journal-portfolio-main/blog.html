@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,6 +7,7 @@
     <title>Blog - The Lifestyle Journal</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
 
 <nav>
@@ -18,35 +20,91 @@
         <li><a href="contact.html">Contact</a></li>
     </ul>
 </nav>
+
 <section class="blog">
-    <h1>My Blog Posts</h1>
 
-    <div class="post">
-        <h2>🎬 My Favourite Movies & Series</h2>
-        <p>
-            Watching movies and series is one of my favourite hobbies.
-            I enjoy exploring different genres because each story provides
-            unique experiences and valuable lessons.
-        </p>
+    <h1>My Gallery Collections</h1>
+
+    <div class="post" onclick="openGallery('photography')">
+
+        <img src="images/photography1.jpeg" class="blog-cover">
+
+    <h2>📸 Photography</h2>
+
+    <p>
+        Photography and photo editing highlights.
+    </p>
+
+    <p class="view-gallery">
+        View Gallery →
+    </p>
+
     </div>
 
-    <div class="post">
-        <h2>🎵 Music That Helps Me Study</h2>
-        <p>
-            Music helps me stay focused while studying and completing
-            assignments. I usually listen to instrumental and relaxing
-            playlists to improve my concentration.
-        </p>
+    <div class="post" onclick="openGallery('food')">
+
+        <img src="images/food1.jpeg" class="blog-cover">
+
+    <h2>🍜 Food Hunting</h2>
+
+    <p>
+        Favourite cafes, local food spots, and food discoveries.
+    </p>
+
+    <p class="view-gallery">
+        View Gallery →
+    </p>
+
     </div>
 
-    <div class="post">
-        <h2>💻 Learning Web Development</h2>
-        <p>
-            Learning HTML, CSS, and JavaScript has helped me understand
-            how websites are created. This project allows me to practice
-            my skills and build a personal portfolio.
-        </p>
+    <div class="post" onclick="openGallery('travel')">
+        <img src="images/travel1.jpeg" class="blog-cover">
+
+    <h2>🌊 Travel Diaries</h2>
+
+    <p>
+        Memories from travels and beach adventures.
+    </p>
+
+    <p class="view-gallery">
+        View Gallery →
+    </p>
+
     </div>
+
+    <div class="post" onclick="openGallery('project')">
+
+        <img src="images/project1.jpg" class="blog-cover">
+
+    <h2>💻 Creative Projects</h2>
+
+    <p>
+        Showcasing my projects in web development, 3D modelling, and animation.
+    </p>
+
+    <p class="view-gallery">
+        View Gallery →
+    </p>
+
+    </div>
+
+    <div id="galleryModal" class="modal">
+
+    <div class="modal-content">
+
+        <span class="close" onclick="closeGallery()">&times;</span>
+
+        <h2 id="galleryTitle"></h2>
+
+        <div id="galleryImages" class="gallery-images"></div>
+
+    </div>
+
+</div>
+
 </section>
+
+<script src="js/script.js"></script>
+
 </body>
 </html>
