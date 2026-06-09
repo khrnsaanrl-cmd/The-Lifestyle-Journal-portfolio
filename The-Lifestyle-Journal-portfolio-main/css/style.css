@@ -532,13 +532,12 @@ url("../images/contactbanner.jpg");
     }
 
      .gallery-images{
-        grid-template-columns:1fr !important;
+        grid-template-columns:1fr;
     }
 
     .gallery-images img{
-        width:100%;
-        height:auto !important;
-        object-fit:contain !important;
+        height:auto;
+        object-fit:contain;
     }
 }
 
@@ -595,9 +594,10 @@ url("../images/contactbanner.jpg");
 }
 
 .gallery-images{
-     display:grid;
+    display:grid;
     grid-template-columns:repeat(2,1fr);
     gap:20px;
+    margin-top:20px;
 }
 
 .gallery-images img{

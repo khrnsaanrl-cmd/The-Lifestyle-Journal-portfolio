@@ -54,17 +54,11 @@ The purpose of this project is to create a responsive and visually appealing per
 
 ## How to Run the Project
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open index.html in a web browser.
-4. Navigate through the website using the navigation menu.
+https://drive.google.com/drive/folders/1WC23ieuLB2JI4M7uoERcSQV_Rh58yLYb?usp=drive_link
 
 ---
 
 ## Demo Link
-
-GitHub Repository:
-https://github.com/khrnsaanrl-cmd/The-Lifestyle-Journal-portfolio
 
 GitHub Pages:
 https://khrnsaanrl-cmd.github.io/The-Lifestyle-Journal-portfolio/The-Lifestyle-Journal-portfolio-main/
