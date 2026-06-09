@@ -87,7 +87,7 @@ The-Lifestyle-Journal/
 
 GitHub Pages:
 
-(Add your GitHub Pages link here)
+(https://khrnsaanrl-cmd.github.io/The-Lifestyle-Journal-portfolio/)
 
 ---
 
