@@ -531,8 +531,14 @@ url("../images/contactbanner.jpg");
         max-width:280px;
     }
 
-    .gallery-images{
-    grid-template-columns:1fr;
+     .gallery-images{
+        grid-template-columns:1fr !important;
+    }
+
+    .gallery-images img{
+        width:100%;
+        height:auto !important;
+        object-fit:contain !important;
     }
 }
 

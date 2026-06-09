@@ -61,28 +61,6 @@ The purpose of this project is to create a responsive and visually appealing per
 
 ---
 
-## Folder Structure
-
-```text
-The-Lifestyle-Journal/
-│
-├── index.html
-├── about.html
-├── blog.html
-├── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── images/
-    └── screenshot
-```
-
----
-
 ## Demo Link
 
 GitHub Repository:
@@ -106,8 +84,8 @@ Through this project, I improved my skills in:
 
 ## Author
 
-Nurul Khairunnisa'
+Nurul Khairunnisa' Binti Khairul Nizam
 
-Information Technology Student
+Bachelor of Information Technology (Informatics Media) with Honours
 
 Universiti Sultan Zainal Abidin (UniSZA)
