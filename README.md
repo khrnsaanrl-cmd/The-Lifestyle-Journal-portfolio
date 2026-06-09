@@ -85,9 +85,11 @@ The-Lifestyle-Journal/
 
 ## Demo Link
 
-GitHub Pages:
+GitHub Repository:
+https://github.com/khrnsaanrl-cmd/The-Lifestyle-Journal-portfolio
 
-(Add your GitHub Pages link here)
+GitHub Pages:
+https://khrnsaanrl-cmd.github.io/The-Lifestyle-Journal-portfolio/
 
 ---
 
